@@ -1,8 +1,8 @@
 # TSF-Task-1
 
 so, this is my first task assigned by The Sparks Foundation
-For the Programme Data Science & Buisness Analytics 
-Prediction using Supervised ML 
+For the Programme Data Science & Buisness Analytics
+The Topic is Prediction using Supervised ML 
 (Level - Beginner)
 ● Predict the percentage of an student based on the no. of study hours. 
 ● This is a simple linear regression task as it involves just 2 variables.
